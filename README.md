@@ -1,21 +1,12 @@
-<!-- - 👋 Hi, I’m Kishan Kumar Seth.
-- 👀 I’m interested in Coding & Development
-- 🌱 I’m currently learning DSA & and Web Development
-- 💞️ 
-- 📫 
-
-<!---
-kishanks412/kishanks412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- -->
- 
- 
- <h2>Hi there 👋, My name is Kishan Kumar Seth</h2>
+<h2>Hi there 👋, My name is Kishan Kumar Seth</h2>
 
 ![](https://miro.medium.com/max/1400/1*qqSHCBs_v7FNLtzuc6y45g.jpeg)
 
-<h3>I am a computer science undergraduate pursuing B-Tech degree in Computer Science and Engineering in Institute of Technology Guru Ghasidas Vishwavidyayala</h3>
+<h3><ol>
+--> I am a computer science undergraduate student.
+--> Pursuing B-Tech from Institute of Technology, Guru Ghasidas Vishwavidyayala, Bilaspur, Chhattisgarh.
+</ol>
+</h3>
 
 ![Profile views](https://gpvc.arturio.dev/kishanks412)
 
@@ -29,18 +20,7 @@ Skills: **C**
 
 ![](http://ghacc.org/wp-content/uploads/2018/02/lets-connect.jpg)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
-(https://github.com/kishanks412)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]
-(https://www.linkedin.com/in/www.linkedin.com/in/kishankumarseth)   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>]
-(https://twitter.com/kishan_412)
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>]
-(https://www.hackerrank.com/sudhanshukumar15?hr_r=1)   -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>]
-(https://auth.geeksforgeeks.org/user/kkseth412/profile)    
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>]
-(https://leetcode.com/kishan_412/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kishanks412)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/kishankumarseth)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kishan_412)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/kkseth412/profile)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/kishan_412/)  
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,6 +34,7 @@ Skills: **C**
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kishanks412&theme=nightowl)  
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kishanks412&&theme=nightowl" alt="Kishan's" /></p> 
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kishanks412&&theme=nightowl" alt="Shudhanshu-Kumar" /></p> 
 
 ![GitHub metrics](https://metrics.lecoq.io/kishanks412)  
+  
