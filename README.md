@@ -34,7 +34,7 @@ Skills: **C**
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kishanks412&theme=nightowl)  
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kishanks412&&theme=nightowl" alt="Shudhanshu-Kumar" /></p> 
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kishanks412&&theme=nightowl" alt="Kishan Kumar Seth" /></p> 
 
 ![GitHub metrics](https://metrics.lecoq.io/kishanks412)  
   
