@@ -15,15 +15,7 @@
 <h3 align="center" style="font-size: 20px;"> 𝓐𝓷 𝓪𝓼𝓹𝓲𝓻𝓲𝓷𝓰 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻. 𝓐 𝓣𝓮𝓬𝓱 𝓖𝓮𝓮𝓴 𝔀𝓲𝓽𝓱 𝓪 𝓹𝓪𝓼𝓼𝓲𝓸𝓷 𝓸𝓯 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓝𝓮𝔀 𝓣𝓮𝓬𝓱𝓷𝓸𝓵𝓸𝓰𝓲𝓮𝓼. </h3>
 
 <p align="center">
-  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=
-  Full%20Stack%20Developer;
-  Competitive%20Programmer;
-  ReactJs%20Developer;
-  NodeJsJS%20Developer;
-  Always%20learning%20new%20tech;
-  Lovess%20to%20Play%20Chess;
-  Music%20Listener;
-  &font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Competitive%20Programmer;ReactJs%20Developer;NodeJsJS%20Developer;Always%20learning%20new%20tech;Lovess%20to%20Play%20Chess;Music%20Listener;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <p align="center">
