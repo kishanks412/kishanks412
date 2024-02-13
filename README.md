@@ -127,7 +127,10 @@
 ||
 | <img src="SoftwareKnowledge.png" style="width:300px" align = "center">| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=whit)  ![GitHub](https://img.shields.io/badge/github-4D4D4D?style=for-the-badge&logo=githubl&logoColor=whit)|
 | | 
-| <img src="CompetitiveCoding.png" style="width:300px" align="center"> | [![CodeChef](https://img.shields.io/badge/Codechef-00CCBB7.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/) [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/) [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/) [![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/) |
+| <img src="CompetitiveCoding.png" style="width:300px" align="center"> | [![LeetCode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/kishan_412/) [![CodeChef](https://img.shields.io/badge/Codechef-00CCBB7.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/kishan412) [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kkseth412/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user) |
+
+
+<!-- [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/) [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/) | -->
 
 
 <h3 align="center">
@@ -139,12 +142,12 @@
 <hr>
 
 <p align="center" align='right'>
-<a target="_blank"href="https://www.linkedin.com/in/shrey-srivastava-591bb21bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="https://www.linkedin.com/in/kishankumarseth/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank"href="mailto: kishankumarseth.ggugmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank"href="https://discord.com/users/8632"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a target="_blank"href="https://twitter.com/Dev_Sr57652637"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a target="_blank"href="https://www.instagram.com/srivastava_rehaan21/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a target="_blank"href="https://www.youtube.com/channel/UCzA-UBsRA0PSOVPCs-s9Uuw"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<!-- <a target="_blank"href="https://discord.com/users/8632"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
+<!-- <a target="_blank"href="https://twitter.com/Dev_Sr57652637"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> -->
+<!-- <a target="_blank"href="https://www.instagram.com/srivastava_rehaan21/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
+<!-- <a target="_blank"href="https://www.youtube.com/channel/UCzA-UBsRA0PSOVPCs-s9Uuw"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a> -->
  
 <hr>
 
